@@ -51,16 +51,17 @@ From previous reference: massive build, grey buzzcut, salt-and-pepper beard, anc
 | Clothing (casual/off-duty) | Oversized dark thrifted/hand-me-down jacket, jeans, white sneakers (worn) |
 | Relationship with Cole | Cole is a regular bar customer, they share comfortable silence — Maggie doesn't ask questions, which is why Cole tolerates her. Silent mutual understanding.
 
-### Supporting Character: Bob (~60-year-old head bartender)
+### Supporting Character: Logan (~60-year-old head bartender)
 
 **Full Character Specifications:**
 | Attribute | Details |
 |-----------|---------|
+| Name | Logan |
 | Age | ~60 |
 | Height | ~175cm |
 | Build | Slender narrow frame, medium-tall |
 | Proportions | 1:7.5 head-to-body ratio |
-| Vibe | Gentle quiet dignity, seen-it-all calm, comforting presence. Former life with hidden past, now quiet bartender. Like an old cafe owner — calm, still, seen dark things but chose kindness. |
+| Vibe | Gentle quiet dignity, seen-it-all calm, comforting presence. Former life with hidden past, now quiet bartender. Like the old cafe owner — calm, still, seen dark things but chose kindness. |
 | Hair | Clean neatly combed white/silver hair, well-groomed intentional neatness |
 | Face | Calm gentle eyes with fine age wrinkles, straight nose, thin lips, lightly wrinkled skin that shows age but doesn't look old |
 | Clothing (work uniform) | Clean white shirt + black vest + black tie, every button fastened, cuffs neatly folded |
