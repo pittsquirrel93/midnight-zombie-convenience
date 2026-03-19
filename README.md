@@ -70,11 +70,27 @@ From previous reference: massive build, grey buzzcut, salt-and-pepper beard, anc
 | Relationships | - Father figure to Maggie: quiet watchfulness, doesn't nag but steps in when needed<br>- Long-time friend to Cole: mutual silent understanding, both have pasts they don't talk about<br>- Key supporting character for first 3 acts, dies protecting Maggie at zombie outbreak |
 | Story Role | Quiet heart of the bar, catalyzes Maggie's growth after his death.
 
+## Project Organization
+
+- `characters/` → Full character reference sets for all main characters. Each character has its own subfolder with:
+  - Full 3-view turnarounds (front/side/back)
+  - Character card with full art
+  - README.md with complete character specs and story role
+  *All character art and specs are stored here, reference this when drawing characters.*
+
+- `scenes/` → Organized background scene assets by location, with multiple perspectives for each scene location:
+  - All backgrounds are 16:9 2688×1536 pure no-character canvases, ready for character composition
+  - Follows 1990s Cowboy Bebop cel-shading noir aesthetic, hard flat shadows, no gradients
+  *Reference these when building comic pages.*
+
+- `drafts/` → Working trial pages, organized by trial round (trials_v0, trials_v1, trials_v2...)
+  `drafts/trials_v2/` → ready for your next round of page composition/generation
+
 ## Todo:
 - [x] Create project folder + README
-- [x] Generate character card
+- [x] Generate all character references (full 3-view + character cards)
+- [x] Generate all background scene assets with multiple perspectives per location
 - [x] Page 1: Opening establishing shot
-- [ ] Outline full story beats page-by-page
-- [ ] Generate AI comic pages sequentially
-- [ ] Save generated assets
+- [ ] Compose full chapter 1 pages
 - [ ] Document scene notes
+- [ ] Final page assembly
