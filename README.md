@@ -51,6 +51,24 @@ From previous reference: massive build, grey buzzcut, salt-and-pepper beard, anc
 | Clothing (casual/off-duty) | Oversized dark thrifted/hand-me-down jacket, jeans, white sneakers (worn) |
 | Relationship with Cole | Cole is a regular bar customer, they share comfortable silence — Maggie doesn't ask questions, which is why Cole tolerates her. Silent mutual understanding.
 
+### Supporting Character: Bob (~60-year-old head bartender)
+
+**Full Character Specifications:**
+| Attribute | Details |
+|-----------|---------|
+| Age | ~60 |
+| Height | ~175cm |
+| Build | Slender narrow frame, medium-tall |
+| Proportions | 1:7.5 head-to-body ratio |
+| Vibe | Gentle quiet dignity, seen-it-all calm, comforting presence. Former life with hidden past, now quiet bartender. Like an old cafe owner — calm, still, seen dark things but chose kindness. |
+| Hair | Clean neatly combed white/silver hair, well-groomed intentional neatness |
+| Face | Calm gentle eyes with fine age wrinkles, straight nose, thin lips, lightly wrinkled skin that shows age but doesn't look old |
+| Clothing (work uniform) | Clean white shirt + black vest + black tie, every button fastened, cuffs neatly folded |
+| Clothing (casual/off-duty) | Simple white shirt + dark trousers |
+| Personality | Gentle not weak, quiet not cold. Doesn't ask questions, quiet presence that comforts. Speaks rarely but when he does it hits the point. |
+| Relationships | - Father figure to Maggie: quiet watchfulness, doesn't nag but steps in when needed<br>- Long-time friend to Cole: mutual silent understanding, both have pasts they don't talk about<br>- Key supporting character for first 3 acts, dies protecting Maggie at zombie outbreak |
+| Story Role | Quiet heart of the bar, catalyzes Maggie's growth after his death.
+
 ## Todo:
 - [x] Create project folder + README
 - [x] Generate character card
